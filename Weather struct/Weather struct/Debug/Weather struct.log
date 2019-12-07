@@ -1,0 +1,9 @@
+﻿  Weather struct.cpp
+C:\Users\hanne\source\repos\Weather struct\Weather struct\Weather struct.cpp(177,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\hanne\source\repos\Weather struct\Weather struct\Weather struct.cpp(187,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hanne\source\repos\Weather struct\Weather struct\Weather struct.cpp(194,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hanne\source\repos\Weather struct\Weather struct\Weather struct.cpp(565,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hanne\source\repos\Weather struct\Weather struct\Weather struct.cpp(616,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hanne\source\repos\Weather struct\Weather struct\Weather struct.cpp(619,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\hanne\source\repos\Weather struct\Weather struct\Weather struct.cpp(851,22): warning C4018: '<': signed/unsigned mismatch
+  Weather struct.vcxproj -> C:\Users\hanne\source\repos\Weather struct\Debug\Weather struct.exe
